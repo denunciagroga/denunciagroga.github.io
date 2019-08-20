@@ -1,0 +1,91 @@
+---
+layout: catalog
+title: Models de denúncia
+excerpt: El catàleg de models de denúncies de famílies o docents
+---
+
+<section>
+   {% for mainTag in site.mainTags %}
+   {% assign categoryCount = 0 %}
+	   {% for post in site.pages %}
+		   {% if post.categories contains "famílies" %}
+		   {% if post.categories contains mainTag %}
+		   		{% assign categoryCount = categoryCount | plus: 1 %}
+		   {% endif %}
+		   {% endif %}
+      {% endfor %}
+	   
+   {% unless categoryCount == 0 %}
+   <div class="design-pattern">
+   <h3>{{mainTag| replace: "-", " "}} ({{categoryCount}})</h3>
+   <ol class="design-pattern-list">
+      {% for post in site.pages %}
+      {% if post.categories contains mainTag %}
+      <li>
+         <a href="{{ post.url | replace:'.html','' | prepend: site.baseurl }}" title="{{ post.title }}">
+            <div class="md-list-item-text">
+               <h4>{{ post.title }}</h4>
+               <aside>
+                  <ul class="tags">
+                     {% for tag in post.categories %}
+                     {% unless tag == mainTag %}
+                     {% unless tag == "docents" %}
+                     <li>{{tag}}</li>
+                     {% endunless %}
+                     {% endunless %}
+                     {% endfor %}
+                  </ul>
+               </aside>
+            </div>
+         </a>
+      </li>
+      {% endif %}
+      {% endfor %}
+   </ol>
+   </div>
+   {% endunless %}
+   {% endfor %}
+</section>
+
+<section>
+   {% for mainTag in site.mainTags %}
+   {% assign categoryCount = 0 %}
+	   {% for post in site.pages %}
+		   {% if post.categories contains "docents" %}
+		   {% if post.categories contains mainTag %}
+		   		{% assign categoryCount = categoryCount | plus: 1 %}
+		   {% endif %}
+		   {% endif %}
+      {% endfor %}
+	   
+   {% unless categoryCount == 0 %}
+   <div class="design-pattern">
+   <h3>{{mainTag| replace: "-", " "}} ({{categoryCount}})</h3>
+   <ol class="design-pattern-list">
+      {% for post in site.pages %}
+      {% if post.categories contains mainTag %}
+      <li>
+         <a href="{{ post.url | replace:'.html','' | prepend: site.baseurl }}" title="{{ post.title }}">
+            <div class="md-list-item-text">
+               <h4>{{ post.title }}</h4>
+               <aside>
+                  <ul class="tags">
+                     {% for tag in post.categories %}
+                     {% unless tag == mainTag %}
+                     {% unless tag == "docents" %}
+                     <li>{{tag}}</li>
+                     {% endunless %}
+                     {% endunless %}
+                     {% endfor %}
+                  </ul>
+               </aside>
+            </div>
+         </a>
+      </li>
+      {% endif %}
+      {% endfor %}
+   </ol>
+   </div>
+   {% endunless %}
+   {% endfor %}
+</section>
