@@ -5,6 +5,11 @@ excerpt: El catàleg de models de denúncies de famílies o docents
 ---
 
 <section>
+   <p>Aquest és el llistat de models de denúncia. Estan classificats per aquells que són per <strong>famílies</strong> o <strong>docents</strong>.</p>
+
+</section>
+
+<section>
    {% for mainTag in site.mainTags %}
    {% assign categoryCount = 0 %}
 	   {% for post in site.pages %}
@@ -16,22 +21,20 @@ excerpt: El catàleg de models de denúncies de famílies o docents
       {% endfor %}
 	   
    {% unless categoryCount == 0 %}
-   <div class="design-pattern">
+   <div>
    <h3>{{mainTag| replace: "-", " "}} ({{categoryCount}})</h3>
-   <ol class="design-pattern-list">
+   <ol class="post-list">
       {% for post in site.pages %}
       {% if post.categories contains mainTag %}
       <li>
          <a href="{{ post.url | replace:'.html','' | prepend: site.baseurl }}" title="{{ post.title }}">
-            <div class="md-list-item-text">
-               <h4>{{ post.title }}</h4>
+            <div>
+               <h4 class="model-title">{{ post.title }}</h4>
                <aside>
                   <ul class="tags">
                      {% for tag in post.categories %}
                      {% unless tag == mainTag %}
-                     {% unless tag == "docents" %}
                      <li>{{tag}}</li>
-                     {% endunless %}
                      {% endunless %}
                      {% endfor %}
                   </ul>
@@ -47,7 +50,7 @@ excerpt: El catàleg de models de denúncies de famílies o docents
    {% endfor %}
 </section>
 
-<section>
+<section id="models-docents">
    {% for mainTag in site.mainTags %}
    {% assign categoryCount = 0 %}
 	   {% for post in site.pages %}
@@ -59,22 +62,20 @@ excerpt: El catàleg de models de denúncies de famílies o docents
       {% endfor %}
 	   
    {% unless categoryCount == 0 %}
-   <div class="design-pattern">
+   <div>
    <h3>{{mainTag| replace: "-", " "}} ({{categoryCount}})</h3>
-   <ol class="design-pattern-list">
+   <ol class="post-list">
       {% for post in site.pages %}
       {% if post.categories contains mainTag %}
       <li>
          <a href="{{ post.url | replace:'.html','' | prepend: site.baseurl }}" title="{{ post.title }}">
             <div class="md-list-item-text">
-               <h4>{{ post.title }}</h4>
+               <h4 class="model-title">{{ post.title }}</h4>
                <aside>
                   <ul class="tags">
                      {% for tag in post.categories %}
                      {% unless tag == mainTag %}
-                     {% unless tag == "docents" %}
                      <li>{{tag}}</li>
-                     {% endunless %}
                      {% endunless %}
                      {% endfor %}
                   </ul>

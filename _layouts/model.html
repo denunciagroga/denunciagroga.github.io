@@ -1,0 +1,20 @@
+---
+layout: page
+---
+<link rel="stylesheet" href="/css/icofont.min.css">
+
+<a id="model-back2list" href="/models.html"><i class="icofont-arrow-left icofont-4x"></i>Tornar al llistat de models de denúncia</a>
+
+<p id="attachments-title"><i class="icofont-download icofont-2x"></i>Descarregar en format:</p>
+
+<ul class="attachments">
+    <li class="attachment odt"><a href="{{ page.attachments.odt }}"><i class="icofont-file-document icofont-2x"></i>LibreOffice (odt)</a></li>
+    <li class="attachment word"><a href="{{ page.attachments.word }}"><i class="icofont-file-word icofont-2x"></i>Microsoft Word (docx)</a></li>
+    <li class="attachment pdf"><a href="{{ page.attachments.pdf }}"><i class="icofont-file-pdf icofont-2x"></i>PDF</a></li>
+</ul>
+
+<section id="model-description">
+    <h3><i class="icofont-info-square"></i>Descripció<h3>
+    
+    <section>{{content}}</section>
+</section>
