@@ -397,3 +397,32 @@
     }
   }
 }
+
+.site-header {
+  display: flex;
+  align-content: center;
+  align-items: center;
+  background-image: url(/img/denuncia-groga-web-logo.png);
+  background-size: 100px 100px;
+  background-repeat: no-repeat;
+  background-position: 10%;
+  background-position-x: 10%;
+  background-position-y: center;
+  min-height: 120px;
+  justify-content: center;
+}
+
+.site-title {
+  display: none;
+}
+
+.site-header > .wrapper:first-child {
+  margin: 0;
+}
+
+@media screen and (min-width: 600px) {
+  .page-link {
+    font-size: 1.2vw;
+    margin-right: 60px !important;
+  }
+}
