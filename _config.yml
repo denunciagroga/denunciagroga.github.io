@@ -39,8 +39,8 @@ header_pages:
   - models.html
   
 
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: denunciagroga
+github_username:  denunciagroga
 
 # Build settings
 markdown: kramdown
