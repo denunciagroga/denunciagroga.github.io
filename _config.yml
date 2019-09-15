@@ -33,6 +33,7 @@ contributors:
       - família
 
 header_pages:
+  - index.md
   - qui-som.md
   - presentacio.md
   - models.html
