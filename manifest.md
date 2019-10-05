@@ -12,7 +12,7 @@ Tot i així, **els successius governs de la Generalitat de Catalunya són radica
 
 Davant aquest atac al dret a l'educació les docents, famílies i activistes de la Comunitat Educativa responem amb denúncia política, reclamacions a l'Administració educativa, i contra les injustícies i il·legalitats anirem als tribunals, perquè no renunciem als drets universals ni els negociem.
 
-Per aquesta raó, fem una crida per l'adhesió en aquesta lluita col·lectiva, amb una plataforma de denúncia i lluita per:
+Per aquesta raó, fem una crida per l'adhesió de la Comunitat Educativa en aquesta lluita col·lectiva, amb una plataforma de denúncia i lluita per:
 
 1. La superació de la LEC i LOMCE amb alternatives que preservin i extenguin el dret universal a l'escola pública democràtica, emancipadora, diversa i de qualitat, de principis i valors il·lustrats i de solidaritat humana.
 2. **Exigir l'abolició immediata del concert educatiu**, perquè és un model d'escola privada parasitària dels recursos de l'escola pública per privatitzar l'educació i és la principal causa de segregació escolar al país. No tenim res en contra dels establiments privats, sempre i quan es rentin dels seus clients, no dels diners públics de tothom, i es sotmetin a les lleis, paguin els seus impostos i respectin els drets laborals de les treballadores.
