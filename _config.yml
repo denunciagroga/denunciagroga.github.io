@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Denúncia Groga
-email: denunciagroga@example.com
+email: denunciagroga@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   L'educació pública es el DRET de TOTES i TOTS que es defensa i exerceix. 
   
@@ -40,7 +40,6 @@ header_pages:
   
 
 twitter_username: denunciagroga
-github_username:  denunciagroga
 
 # Build settings
 markdown: kramdown
