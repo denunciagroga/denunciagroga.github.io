@@ -400,10 +400,9 @@
 .site-header {
   display: flex;
   align-content: center;
-  align-items: center;
-  background-image: url(/img/denuncia-groga-web-logo.png);
-  background-size: 100px 100px;
-  background-repeat: no-repeat;
+  align-items: center;background-image: url(/img/denuncia-groga-web-logo.png), url(/img/sos-ensenyament.png);
+  background-size: 100px 100px, auto;
+  background-repeat: no-repeat, no-repeat;
   background-position: 10%;
   background-position-x: 10%;
   background-position-y: center;
