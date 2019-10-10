@@ -32,6 +32,8 @@ contributors:
     type:
       - família
 
+show_excerpts: true
+
 header_pages:
   - index.md
   - manifest.md
