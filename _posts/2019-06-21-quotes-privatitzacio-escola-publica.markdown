@@ -6,14 +6,6 @@ categories: [families, cobraments, privatitzacio, escola publica]
 tags: [families, cobraments, privatitzacio, escola publica]
 ---
 
-
-**Matías Fidemraizer**, pare d'un nen de l'escola pública Auró / President Salvans de Terrassa
-
-Twitter: [@mfidemraizer](https://twitter.com/mfidemraizer)
-
-----
-
-
 L'escola pública d’infantil i primària Auró – abans President Salvans -, situada a un barri humil del sud de Terrassa, és un gueto escolar – concentració de dificultats socials i educatives – on més del 90% de l’alumnat és d’ascendència marroquina, es troba devaluada i sense gairebé nova matrícula, al temps que a un radi de 600 metres dues escoles privades concertades gaudeixen de sobredemanda.
 
 En aquest context, s’afegeix l’infrafinançament públic, la filantropia bancària i el cobrament il·legal de quotes d’escola privada per finançar un projecte educatiu «innovador» inviable sense l'espoli econòmic a les famílies pel diner públic que se’n va al concert educatiu. El Departament d’Educació i l’equip directiu justifiquen les mesures com una sort d’acte de beneficència solidària per la continuïtat de l'escola pública al barri.
@@ -33,3 +25,14 @@ La resposta es troba en la voracitat política de l’executiu català per dinam
 **Tot plegat invita a la reflexió quant a la justificació que troben les quotes il·legals a la comunitat educativa** i **l’oposició amb impostures a l’abolició del concert educatiu**, els discursos falsaris vers la segregació escolar, així com l’**obscenitat del Departament d’Educació i organitzacions subvencionades acusant de fins espuris a les famílies migrades i segregades en defensa de l’escola pública**.
 
 La realitat dibuixa l'absència de contrapoder, urgència de debat públic i auto-organització per impugnar la privatització de l’educació amb alternatives democràtiques i un projecte polític emancipador.
+
+---
+
+**Matías Fidemraizer**, activista i pare d'un nen de l'escola pública Auró / President Salvans de Terrassa
+
+*Aquest article també ha estat publicat en altres medis:*
+- [Poder Popular](https://poderpopular.info/2019/06/14/cuotas-y-privatizacion-de-la-educacion)
+- [Malarrassa](https://malarrassa.cat/2019/06/26/matias-fidemraizer-quotes-i-privatitzacio-de-leducacio-el-cas-de-lescola-auro)
+- [L'Accent](https://laccent.cat/quotes-i-privatitzacio-de-leducacio-el-cas-de-lescola-auro)
+
+Twitter: [@mfidemraizer](https://twitter.com/mfidemraizer)
