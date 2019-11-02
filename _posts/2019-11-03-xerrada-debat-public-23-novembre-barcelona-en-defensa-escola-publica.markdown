@@ -8,7 +8,13 @@ tags: [xerrada, debat]
  
 ![Cartell oficial del debat](/img/cartell3bn.jpg)
 
-# **En defensa de l'escola pública contra**
-## ***Retallades, tancaments de línies i massificació d'aules, privatitzacions via externalitzacions i concerts educatius, lleis antidemocràtiques i precarització de les condicions laborals de les docents, desigualtats per l'alumnat, segregació escolar, quotes il·legals***
+# **COM ORGANITZAR-NOS PER ATURAR LA PRIVATITZACIÓ DE L'EDUCACIÓ AMB RECLAMACIONS EFECTIVES I DENÚNCIA ALS TRIBUNALS?**
+## **PORTEM AL DEBAT PÚBLIC LES INJUSTÍCIES I IL·LEGALITATS DELS QUE PARASITEN I DESBALLESTEN L'ESCOLA PÚBLICA**
 
-### Docents i famílies volem lluitar pels drets dels infants i joves de Catalunya.
+Encetem els atacs contra l'escola pública catalana:
+- **Retallades** *per finançar la privatització de l'educació via **concert educatiu**: la principal causa de **segregació escolar***.
+- **Precarització laboral i de les condicions dels ensenyants** *amb la LEC i LOMCE, lleis antidemocràtiques i regressives*.
+- **Conseqüent devaluació de la qualitat educativa** *per la manca de recursos per atendre les necessitats individuals de l'alumnat i la segregació escolar*.
+- **Insubmissió de l'Administració Educativa contra les lleis educatives** *per privatitzar i imposar a les mares i pares el pagament de **quotes il·legals** degut als diners públics que des de la Generalitat sostreuen per al concert educatiu.*
+
+## **CAPGIREM EL CONTEXT QUE ENS ÉS CONTRARI**
