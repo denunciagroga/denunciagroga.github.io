@@ -407,6 +407,8 @@
   background-position-x: 10%;
   background-position-y: center;
   min-height: 120px;
+  background-color: #ffb903;
+  padding-bottom: 10px;
   justify-content: center;
 }
 
@@ -425,7 +427,7 @@
 
   .site-header {
     min-height: 100px;
-    border-bottom: 20px solid #ffb900;
+    border-bottom: 5px solid #ffb900;
     background-position-x: 19%;
   }
 
