@@ -4,7 +4,7 @@ title:  "PRÒXIM 23 DE NOVEMBRE, VINE A LA XERRADA I DEBAT"
 date:   2019-11-02 00:00:00 +0100
 categories: [xerrada, debat]
 tags: [xerrada, debat]
-image: /img/cartell-23n.jpg
+image: img/cartell-23n.jpg
 description: Xerrada i debat públic en defensa de l'escola pública
 ---
  
