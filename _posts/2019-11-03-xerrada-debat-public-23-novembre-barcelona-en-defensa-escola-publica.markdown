@@ -5,7 +5,7 @@ date:   2019-11-02 00:00:00 +0100
 categories: [xerrada, debat]
 tags: [xerrada, debat]
 image: /img/cartell-23n.jpg
-description: Obert a docents, famílies i activisme. Xerrada i debat 
+description: Debat públic i denúncia en defensa de l'escola pública contra els que la parasiten i desballesten. Com fer reclamacions efectives contra injustícies i il·legalitats? Explorem la via judicial. 
 ---
  
 ![Cartell oficial del debat]({{ page.image }})
