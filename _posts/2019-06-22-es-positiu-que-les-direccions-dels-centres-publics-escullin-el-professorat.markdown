@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "És positiu que les direccions dels centres públics escullin el professorat?"
-date:   2019-10-28 00:00:00 +0100
+date:   2019-06-22 00:00:00 +0100
 categories: [direccions, docencia, lleis, democracia, innovacio]
 tags: [direccions, docencia, lleis, democracia, innovacio]
 ---
