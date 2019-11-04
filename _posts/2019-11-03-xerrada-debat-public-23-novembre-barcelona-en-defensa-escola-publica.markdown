@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "CARTELL: PRÒXIM 23 DE NOVEMBRE, VINE A LA XERRADA I DEBAT"
+title:  "CARTELL: PRÒXIM 23 DE NOVEMBRE, DEBAT PÚBLIC"
 date:   2019-11-02 00:00:00 +0100
 categories: [xerrada, debat]
 tags: [xerrada, debat]
 image: /img/cartell-23n.jpg
-description: Com fer reclamacions efectives per impugnar injustícies i il·legalitats? Debat públic en defensa de l'escola pública contra els que la parasiten i desballesten. 
+description: Debat públic de famílies, docència i activisme en defensa de l'escola pública contra els que la parasiten i desballesten.
 ---
  
 ![Cartell oficial del debat]({{ page.image }})
