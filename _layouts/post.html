@@ -16,12 +16,10 @@ layout: default
   </header>
 
   <div class="post-content e-content" itemprop="articleBody">
-      {%- if page.image -%}
-      <div>
+    {%- if page.image and page.showImage -%}
     <img src="{{ page.image }}">
     <br>
     <br>
-    </div>
     {%- endif -%}
     {{ content }}
   </div>

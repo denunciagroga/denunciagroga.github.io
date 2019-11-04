@@ -6,6 +6,7 @@ categories: [direccions, docencia, caciquisme, autoritarisme]
 tags: [direccions, caciquisme, autoritarisme]
 image: /img/direccio-cacic.jpg
 description: Volem donar veu amb nom i cognoms a aquestes pràctiques caciquils, avergonyir-les públicament, crear consciència del model d’educació que realment vol la ciutadania i democratitzar el sistema educatiu
+showImage: true
 ---
 
 **Amb l’aprovació de la Llei d’Educació de Catalunya (2009)**, que incorporava subtilment el sector empresarial com a membre de la comunitat educativa, i posteriorment la LOMCE, **es donaven les darreres palades per enterrar l’esperit il·lustrat entre els i les mestres catalanes (i espanyoles)**.

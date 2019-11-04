@@ -6,6 +6,7 @@ categories: [families, cobraments, privatitzacio, escola publica]
 tags: [families, cobraments, privatitzacio, escola publica]
 image: /img/educacio-publica-privada-quotes.jpg
 description: Lluita de famílies segregades de l'Auró de Terrassa, escola gueto, i reacció de l'Administració Educativa
+showImage: true
 ---
 
 L'escola pública d’infantil i primària Auró – abans President Salvans -, situada a un barri humil del sud de Terrassa, és un gueto escolar – concentració de dificultats socials i educatives – on més del 90% de l’alumnat és d’ascendència marroquina, es troba devaluada i sense gairebé nova matrícula, al temps que a un radi de 600 metres dues escoles privades concertades gaudeixen de sobredemanda.

@@ -5,6 +5,7 @@ date:   2019-11-02 00:00:00 +0100
 categories: [xerrada, debat]
 tags: [xerrada, debat]
 image: /img/cartell-23n.jpg
+showImage: false
 description: Debat públic de famílies, docència i activisme en defensa de l'escola pública contra els que la parasiten i desballesten.
 ---
  

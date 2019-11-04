@@ -6,6 +6,7 @@ categories: [direccions, docencia, lleis, democracia, innovacio]
 tags: [direccions, docencia, lleis, democracia, innovacio]
 image: /img/reunio-claustre.jpg
 description: Aquest curs, la direcció dels centres ha intervingut directament en el 78,66% de les 26.059 places adjudicades.
+showImage: true
 ---
 
 Aquest curs, **la direcció dels centres ha intervingut directament en el 78,66% de les 26.059 places adjudicades**. A la vegada, les places perfilades han passat de 4.344 el curs passat a 5.667 aquest curs. A propòsit de l’article publicat a El Diari de l’Educació i sobre totes les adjudicacions en les quals intervenen les direccions, voldria fer algunes consideracions.

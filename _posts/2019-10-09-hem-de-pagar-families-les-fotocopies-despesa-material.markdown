@@ -6,6 +6,7 @@ categories: [families, cobraments]
 tags: [families, cobraments]
 image: /img/material-escolar.jpg
 description: Qualsevol cobrament destinat a la marxa diària de les classes **no és legal**. Però tot i que tothom ja paga els seus impostos per sostenir l'escola pública, s'ha normalitzat.
+showImage: true
 ---
 
 Qualsevol cobrament destinat a la marxa diària de les classes **no és legal**. Però tot i que tothom ja paga els seus impostos per sostenir l'escola pública, s’ha normalitzat el "copagament" als centres públics de Catalunya. Moltes famílies fan l’esforç pensant que així contribueixen en una millor de l’educació dels seus fills, però les quotes són un instrument més de segregació.
