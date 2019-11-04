@@ -5,7 +5,7 @@ date:   2019-11-02 00:00:00 +0100
 categories: [xerrada, debat]
 tags: [xerrada, debat]
 image: /img/cartell-23n.jpg
-description: Debat públic i denúncia en defensa de l'escola pública contra els que la parasiten i desballesten. Com fer reclamacions efectives contra injustícies i il·legalitats? Explorem la via judicial. 
+description: Com fer reclamacions efectives per impugnar injustícies i il·legalitats? Debat públic en defensa de l'escola pública contra els que la parasiten i desballesten. 
 ---
  
 ![Cartell oficial del debat]({{ page.image }})
@@ -16,8 +16,8 @@ description: Debat públic i denúncia en defensa de l'escola pública contra el
 
 <br>
 
-# **COM ORGANITZAR-NOS PER ATURAR LA PRIVATITZACIÓ DE L'EDUCACIÓ AMB RECLAMACIONS EFECTIVES I DENÚNCIA ALS TRIBUNALS?**
-## **PORTEM AL DEBAT PÚBLIC LES INJUSTÍCIES I IL·LEGALITATS DELS QUE PARASITEN I DESBALLESTEN L'ESCOLA PÚBLICA**
+## **COM ORGANITZAR-NOS PER ATURAR LA PRIVATITZACIÓ DE L'EDUCACIÓ AMB RECLAMACIONS EFECTIVES I DENÚNCIA ALS TRIBUNALS?**
+### **PORTEM AL DEBAT PÚBLIC LES INJUSTÍCIES I IL·LEGALITATS DELS QUE PARASITEN I DESBALLESTEN L'ESCOLA PÚBLICA**
 
 ### *Debatrem:*
 - **Les retallades** *per finançar la privatització de l'educació via **concert educatiu**: la principal causa de **segregació escolar***.
@@ -30,7 +30,7 @@ description: Debat públic i denúncia en defensa de l'escola pública contra el
 ---
 
 <br>
-## US HI ESPEREM! 
+# US HI ESPEREM! 
 ## **23 DE NOVEMBRE DE 10:00 A 14:00**
 ### Al Casal de Joves Girapells, 
 ### C/ Teodor Llorente, 20 **de Barcelona**
@@ -40,6 +40,5 @@ description: Debat públic i denúncia en defensa de l'escola pública contra el
 ---
 
 <br>
-# Ens pots contactar enviar un email a 
-# **denunciagroga@gmail.com**
-# i enviar-nos els teus comentaris!
+### ***Ens pots enviar comentaris a***:
+### denunciagroga@gmail.com
