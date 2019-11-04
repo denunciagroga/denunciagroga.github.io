@@ -4,6 +4,8 @@ title:  "Quotes il·legals i privatització de l'educació"
 date:   2019-06-21 09:30:00 +0100
 categories: [families, cobraments, privatitzacio, escola publica]
 tags: [families, cobraments, privatitzacio, escola publica]
+image: /img/educacio-publica-privada-quotes.jpg
+description: Lluita de famílies segregades de l'Auró de Terrassa, escola gueto, i reacció de l'Administració Educativa
 ---
 
 L'escola pública d’infantil i primària Auró – abans President Salvans -, situada a un barri humil del sud de Terrassa, és un gueto escolar – concentració de dificultats socials i educatives – on més del 90% de l’alumnat és d’ascendència marroquina, es troba devaluada i sense gairebé nova matrícula, al temps que a un radi de 600 metres dues escoles privades concertades gaudeixen de sobredemanda.
@@ -15,6 +17,8 @@ Donat el greuge a l'escola pública del barri, més de 70 famílies de l’escol
 Les comunicacions en premsa de **les autoritats públiques reinterpreten el relat acusant a les famílies de «voler tot gratis»**, fer un guirigall per una insignificant pujada de les quotes il·legals, o de fins espuris, com si d’una subversió de la legalitat es tractés. **Resulta obscè, ja que l'escola pública és gratuïta i es finança amb els impostos, i el cobrament de quotes en concepte de despeses del centre és il·legal perquè es prohibeix clarament a l'article 50.2 de la LEC i l'article 88.1 de la LOMCE**.
 
 **Aquestes declaracions sense base legal demostren la voluntat política del Departament d’Educació de liquidar la gratuïtat i igualtat d’oportunitats que han de regir l'escola pública**. Al mateix temps, la universalitat es degrada a una escolarització de mínims amb plusvàlues en base al cobrament de quotes il·legals.
+
+<blockquote class="twitter-tweet" data-conversation="none"><p lang="ca" dir="ltr"><a href="https://twitter.com/laccent?ref_src=twsrc%5Etfw">@laccent</a> 1/7/2019 «Entrevista de les famílies en lluita de l&#39;escola Auró de Terrassa»<br><br>Entrevista al company <a href="https://twitter.com/mfidemraizer?ref_src=twsrc%5Etfw">@mfidemraizer</a> amb les claus, dades i experiència de la mobilització, i la inacció d&#39;<a href="https://twitter.com/educaciovoc?ref_src=twsrc%5Etfw">@educaciovoc</a> per salvar els mobles i l&#39;equip directiu.<a href="https://t.co/QGWOlcIyFp">https://t.co/QGWOlcIyFp</a> <a href="https://t.co/vId0bGghIy">pic.twitter.com/vId0bGghIy</a></p>&mdash; AFA de l&#39;Escola Auró — President Salvans (@assembleasalv) <a href="https://twitter.com/assembleasalv/status/1151474414636216320?ref_src=twsrc%5Etfw">July 17, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
 No obstant, cal qüestionar quina relació hi ha, a un context de privatització dels serveis públics, entre la fugida de les famílies des dels centres públics devaluats cap a l’escola privada concertada i l’existència de cobraments de quotes il·legals a les dues xarxes educatives. Adquireix sentit d'hipòtesi de fer caixa amb la segregació escolar, però sembla una anàlisi limitada: quina finalitat política podrien tenir les quotes?
 
