@@ -4,6 +4,8 @@ title:  "Per què «Direcció Cacic»?"
 date:   2019-10-25 00:00:00 +0100
 categories: [direccions, docencia, caciquisme, autoritarisme]
 tags: [direccions, caciquisme, autoritarisme]
+image: /img/direccio-cacic.jpg
+description: Volem donar veu amb nom i cognoms a aquestes pràctiques caciquils, avergonyir-les públicament, crear consciència del model d’educació que realment vol la ciutadania i democratitzar el sistema educatiu
 ---
 
 **Amb l’aprovació de la Llei d’Educació de Catalunya (2009)**, que incorporava subtilment el sector empresarial com a membre de la comunitat educativa, i posteriorment la LOMCE, **es donaven les darreres palades per enterrar l’esperit il·lustrat entre els i les mestres catalanes (i espanyoles)**.
@@ -13,6 +15,8 @@ El període precedent estructurat mitjançant el finançament públic d’escole
 L’aprovació de la LEC implicitava el desenvolupament del model de gestió empresarial privada als centres educatius. Fins el moment els equips directius eren rotatius i a la pràctica eren la projecció més o menys aritmètica de la suma del claustre més les famílies i l’alumnat.
 
 Amb la LEC direccions alienes (o no) arribaven a un centre amb el seu projecte personalíssim (disfressat pedagògicament d’innovació i filantropia) i amb el poder de triar gran part del professorat al seu albir. L’arbitrarietat objectiva del sistema precedent tenia greus defectes, però garantia l’objectivitat: la subjectivitat d’un gestor dels recursos públics — *triat ha dit, com «antigament», en temps de naftalina* — que ha de realitzar-se professionalment via status sabem què significa al sud dels Pirineus: **despotisme, lluïment personal, amiguisme, persecució d’altres maneres d’entendre l’educació (la riquesa està en la diversitat) per a entendre-les com a dissidència... i por... molta por** i silenci per mantenir el lloc de treball i poder dur pa a casa... Especialment entre el professorat més precari: interins i substituts.
+
+<blockquote class="twitter-tweet"><p lang="ca" dir="ltr">La nostra funció és fer d&#39;altaveu dels abusos de poder per part de les Direccions dèspotes als centres educatius. També de les denúncies anònimes de les condicions i abusos sobre el professorat, especialment interinxs i substitutxs,en una situació d&#39;autèntic desempar i indefensió</p>&mdash; Direcció Cacic (@DireccioCacic) <a href="https://twitter.com/DireccioCacic/status/1182956262952013824?ref_src=twsrc%5Etfw">October 12, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
 A dia d’avui — *llevat de casos exemplars d’humanisme* — s’està estenent aquest model gestor arreu i prèviament **totes aquestes persones aspirants han passat pel corresponent «*Curs de Directors*» on un *coach* ultraliberal els ensenya que tant se val produir alumnes com sabates**: són usuaris, clients, el procés educatiu és per construir un «producte»... ja no persones... sinó recursos humans en procés de formació on el grup gestor crea la seva camarilla d’afins i va aïllant altres visions i praxis de l’educació i organització dels centres escolars.
 
