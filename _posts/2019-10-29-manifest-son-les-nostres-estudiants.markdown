@@ -2,11 +2,11 @@
 layout: post
 title:  "MANIFEST: Són les nostres estudiants"
 date:   2019-10-29 00:00:00 +0100
-categories: [manifest, professorat, repressió]
-tags: [manifest, professorat, repressió]
+categories: [manifest, professorat, repressio]
+tags: [manifest, professorat, repressio]
 image: /img/manifest-contra-repressio.png
 showImage: true
-description: Comunitat educativa i universitària contra la repressió
+description: Comunitat educativa i universitària contra la repressió a les i els estudiants de Catalunya
 ---
 
 *Reproduïm el text del web manifest de la plataforma [**Professorat contra la repressió**](https://www.professoratcontralarepressio.cat) on trobareu el formulari d'adhesió*
