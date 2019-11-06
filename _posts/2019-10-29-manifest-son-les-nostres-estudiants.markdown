@@ -9,7 +9,7 @@ showImage: true
 description: Comunitat educativa i universitària contra la repressió a les i els estudiants de Catalunya
 ---
 
-*Reproduïm el text del web manifest de la plataforma [**Professorat contra la repressió (premeu aquí per anar a la font original)**](https://www.professoratcontralarepressio.cat) on trobareu el formulari d'adhesió*
+*Reproduïm el text del web manifest de la plataforma [**Professorat contra la repressió (premeu per anar a la font original)**](https://www.professoratcontralarepressio.cat) on trobareu el formulari d'adhesió*
 
 ---
 <br>
