@@ -27,7 +27,7 @@ L'escola pública és gratuïta, però hi ha cobraments legals, sempre que tingu
 
 Tanmateix, les mares i pares ens fem càrrec dels llibres de text o el material escolar individual, i també les excursions. O ens encanta contribuir voluntàriament amb vesses per festes i celebracions per les nostres filles i fills.
 
-La llei prohibeix específicament el cobrament de les despeses de la marxa diària de les classes als ensenyaments públics declarats gratuïts, com pot ser infantil de segon cicle, primària, o la secundària, i també prohibeix obligar a fer aportacions a associacions, com ara les AMPAs o AFAs.
+Però la llei prohibeix específicament el cobrament de les despeses de la marxa diària de les classes als ensenyaments públics declarats gratuïts, com pot ser infantil de segon cicle, primària, o la secundària, i també prohibeix obligar a fer aportacions a associacions, com ara les AMPAs o AFAs.
 
 **Barrejar en quotes indivisibles conceptes perfectament legals amb d'altres il·legals, no converteixen en legals les il·legalitats**, sinó que manifesta la voluntat de les autoritats educatives de camuflar-les i justificar-les. A més, la indivisibilitat ho converteix tot en obligatori, i infringeix la llei perquè els cobrament a les famílies han de tenir caràcter voluntari.
 
