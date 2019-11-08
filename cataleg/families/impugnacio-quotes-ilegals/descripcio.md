@@ -29,6 +29,6 @@ Tanmateix, les mares i pares ens fem càrrec dels llibres de text o el material 
 
 La llei prohibeix específicament el cobrament de les despeses de la marxa diària de les classes als ensenyaments públics declarats gratuïts, com pot ser infantil de segon cicle, primària, o la secundària, i també prohibeix obligar a fer aportacions a associacions, com ara les AMPAs o AFAs.
 
-**Barrejar en quotes indivisibles conceptes perfectament legals amb d'altres il·legals, no converteixen en legals les il·legalitats**, sinó que manifesta la voluntat de les autoritats educatives de camuflar-les i justificar-les. A més, la indivisibilitat és il·legal perquè tot cobrament a les famílies ha de tenir caràcter voluntari.
+**Barrejar en quotes indivisibles conceptes perfectament legals amb d'altres il·legals, no converteixen en legals les il·legalitats**, sinó que manifesta la voluntat de les autoritats educatives de camuflar-les i justificar-les. A més, la indivisibilitat ho converteix tot en obligatori, i infringeix la llei perquè els cobrament a les famílies han de tenir caràcter voluntari.
 
 Aquest model permet denunciar la il·legalitat exigint que la direcció del centre hagi de justificar d'acord amb quina normativa que contradiu la llei està cobrant a les famílies per conceptes prohibits, i d'altres legals, amb opacitat i obligatòriament infringint la llei, i a més especifiqui per iniciativa pròpia o per instrucció o consell de les autoritats educatives superiors.
