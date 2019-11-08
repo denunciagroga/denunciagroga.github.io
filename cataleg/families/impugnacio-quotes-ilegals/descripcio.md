@@ -23,7 +23,7 @@ image: /img/lomce-gratuitat.jpg
 showImage: true
 ---
 
-A l'escola pública hi ha cobraments legals, sempre que tinguin caràcter voluntari: ens poden cobrar activitats extraescolars, activitats complementàries, o serveis escolars com ara les taquilles o el menjador.
+L'escola pública és gratuïta, però hi ha cobraments legals, sempre que tinguin caràcter voluntari: ens poden cobrar activitats extraescolars, activitats complementàries, o serveis escolars com ara les taquilles o el menjador.
 
 Tanmateix, les mares i pares ens fem càrrec dels llibres de text o el material escolar individual, i també les excursions. O ens encanta contribuir voluntàriament amb vesses per festes i celebracions per les nostres filles i fills.
 
