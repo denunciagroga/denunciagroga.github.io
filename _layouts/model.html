@@ -15,6 +15,10 @@ layout: page
 
 <section id="model-description">
     <h3><i class="icofont-info-square"></i>Descripció<h3>
-    
+        {%- if page.image and page.showImage -%}
+    <img src="{{ page.image }}">
+    <br>
+    <br>
+    {%- endif -%}
     <section>{{content}}</section>
 </section>

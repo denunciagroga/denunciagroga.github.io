@@ -1,6 +1,6 @@
 ---
 layout: model
-title: "Quotes il·legals"
+title: "Queixa per quotes il·legals"
 excerpt: Model de denúncia de quotes il·legals a escoles i instituts públics
 date: 2019-08-22 00:00:00 +0100
 modifiedDate: 2019-08-22 00:00:00 +0100
