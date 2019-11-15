@@ -33,3 +33,7 @@ Hem elaborat aquest qüestionari amb 16 indicadors per detectar el grau de segre
 14. Les demandes per arreglar desperfectes corrents durant el darrer curs no han estat ateses i resoltes per part dels responsables de l’administració educativa.
 15. Les millores en els desperfectes estructurals i permanents en les instal·lacions com els lavabos, les cuines, les façanes, els patis, el gimnàs, els tancaments en les finestres i portes, els barracons en sí mateixos, no han estat resoltes en els darrers 5 cursos.
 16. La ràtio d’alumne/aula supera els 21 alumnes el darrer trimestre del curs.
+
+Si trobes que la teva escola té prou en comú amb els trets carecterístics d'una segregada o gueto escolar, comenta el teu parer al següent tweet!
+
+<blockquote class="twitter-tweet" data-link-color="#FAB81E"><p lang="ca" dir="ltr">Famílies, hem fet un breu qüestionari per saber si la teva escola pública està segregada, o si és un gueto escolar.<br><br>Si trobes que hi ha molt en comú amb la teva escola, comenta!<a href="https://t.co/pcwaRB5Odn">https://t.co/pcwaRB5Odn</a></p>&mdash; Denúncia Groga (@DenunciaGroga) <a href="https://twitter.com/DenunciaGroga/status/1195286512562311171?ref_src=twsrc%5Etfw">November 15, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
