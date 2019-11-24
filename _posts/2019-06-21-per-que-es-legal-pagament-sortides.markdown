@@ -2,8 +2,8 @@
 layout: post
 title:  "Per què és perfectament legal que haguem de comprar el material escolar individual, llibres de text i pagar les sortides?"
 date:   2019-11-23 00:00:00 +0100
-categories: [families, cobraments, privatitzacio, escola publica]
-tags: [families, cobraments, privatitzacio, escola publica]
+categories: [families, cobraments, privatitzacio, escola-publica]
+tags: [families, cobraments, privatitzacio, escola-publica]
 image: /img/perque-sortides-pagament.jpg
 description: Algunes organitzacions com la FaPaC, o l'Administració Educativa enverinen amb un discurs enganyós del «tot gratis» per camuflar i justificar les quotes il·legals.
 showImage: true
