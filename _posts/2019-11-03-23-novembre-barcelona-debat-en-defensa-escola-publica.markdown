@@ -5,17 +5,11 @@ date:   2019-11-02 00:00:00 +0100
 categories: [xerrada, debat]
 tags: [xerrada, debat]
 image: /img/cartell-23n.jpg
-showImage: false
+showImage: true
 description: Debat públic de famílies, docència i activisme en defensa de l'escola pública contra els que la parasiten i desballesten.
 ---
- 
-![Cartell oficial del debat]({{ page.image }})
-<br>
-<br>
 
----
-
-<br>
+Debat públic de famílies, docència i activisme en defensa de l'escola pública contra els que la parasiten i desballesten.
 
 ## **COM ORGANITZAR-NOS PER ATURAR LA PRIVATITZACIÓ DE L'EDUCACIÓ AMB RECLAMACIONS EFECTIVES I DENÚNCIA ALS TRIBUNALS?**
 ### **PORTEM AL DEBAT PÚBLIC LES INJUSTÍCIES I IL·LEGALITATS DELS QUE PARASITEN I DESBALLESTEN L'ESCOLA PÚBLICA**
