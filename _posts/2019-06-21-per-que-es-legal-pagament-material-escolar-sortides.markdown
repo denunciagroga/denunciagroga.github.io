@@ -63,7 +63,7 @@ Però el que ens està passant a Catalunya és una distòpia, i no es tracta del
 
 > #### ❝[...] Catalunya és una distòpia, [...] **ens han robat obertament la gratuïtat de l'escola pública. I això està passant amb una clara insubmissió de les lleis** de l'Administració Educativa per retallar-la descaradament, segregar i concertar privades [...]❞
 
-Les quotes il·legals són conseqüència d'aquesta realitat autòctona i, per tant, **no defensar que s'acabin immediatament i incondicionalment, i al mateix temps no exigir la supressió del concert educatiu, es pot entendre com complicitat amb la abominant segregació escolar, i intenció de dinamitar l'escola pública de tothom i gratuïta**.
+Les quotes il·legals són conseqüència d'aquesta realitat autòctona i, per tant, **no exigir que s'acabin immediatament i incondicionalment, i al mateix temps no defensar la supressió del concert educatiu, es pot entendre com complicitat amb la abominant segregació escolar, i intenció de dinamitar l'escola pública de tothom i gratuïta**.
 
 ---
 
