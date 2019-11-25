@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "És legal haver de comprar el material escolar, llibres de text i pagar les sortides?"
+title:  "És legal haver de comprar el material escolar i pagar les sortides?"
 date:   2019-11-23 00:00:00 +0100
 categories: [families, cobraments, privatitzacio, escola-publica, quotes-ilegals]
 tags: [families, cobraments, privatitzacio, escola-publica, quotes-ilegals]
