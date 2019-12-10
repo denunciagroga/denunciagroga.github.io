@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "ASPEP-SPS, en defensa de la jornada compactada"
+title:  "ASPEPC-SPS, en defensa de la jornada compactada"
 date:   2019-12-09 00:00:00 +0100
 categories: [horari, jornada, continua]
 tags: [horari, jornada, continua]
