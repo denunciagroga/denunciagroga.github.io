@@ -2,8 +2,8 @@
 layout: post
 title:  "ASPEPC-SPS, en defensa de la jornada compactada"
 date:   2019-12-09 00:00:00 +0100
-categories: [horari, jornada, continua]
-tags: [horari, jornada, continua]
+categories: [horari, jornada-compactada, lobbies, privada-concertada]
+tags: [horari, jornada-compactada, lobbies, privada-concertada]
 image: /img/aspepc-defensa-jornada-continua.jpg
 description: Els lobbies concertadistes la volen tombar perquè diuen que perjudica el seu negoci.
 showImage: true
