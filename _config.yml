@@ -37,7 +37,7 @@ show_excerpts: true
 header_pages:
   - index.md
   - manifest.md
-  - models.html
+  - seccions.md
   
 
 twitter_username: denunciagroga
