@@ -4,4 +4,6 @@
 
 title: Actualitat
 layout: home
+description: L'actualitat a través de la veu independent de la Comunitat Educativa de l'ensenyament públic.
+image: /img/actualitat.jpg
 ---
