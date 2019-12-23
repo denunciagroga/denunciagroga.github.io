@@ -20,7 +20,7 @@ Fem repositori de tota mena de documentació pública d'interès públic per la 
 ## Reclamacions
 
 | Títol | Descripció |
-| [Reclamació de la CEAPA sol·licitant decret per regular els concerts educatius](./documentacio/reclamacions/NdP_CEAPA-Informe-de-Cobros-Concertada-oct18-v2-definitivo.pdf) | Reclamació al «*Ministerio de Educación y Formación Profesional*» que sol·licita la elaboració d'un decret de concerts educatius que els reguli mentre existeixin, ja que la [CEAPA](https://www.ceapa.es/) destapa amb [l'informe de juny de 2018](./informes/Estudio-Precios-Centros-Concertados-2018.pdf) que la pràctica totalitat infringeix la gratuïtat.
+| [Reclamació de la CEAPA sol·licitant decret per regular els concerts educatius (Novembre de 2018)](./documentacio/reclamacions/NdP_CEAPA-Informe-de-Cobros-Concertada-oct18-v2-definitivo.pdf) | Reclamació al «*Ministerio de Educación y Formación Profesional*» que sol·licita la elaboració d'un decret de concerts educatius que els reguli mentre existeixin, ja que la [CEAPA](https://www.ceapa.es/) destapa amb [l'informe de juny de 2018](./informes/Estudio-Precios-Centros-Concertados-2018.pdf) que la pràctica totalitat infringeix la gratuïtat.
 
 ## Resolucions administratives
 
