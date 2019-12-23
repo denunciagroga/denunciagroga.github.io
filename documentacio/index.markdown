@@ -8,6 +8,8 @@ image: /img/documentacio.jpg
 
 Fem repositori de tota mena de documentació pública d'interès públic per la Comunitat Educativa.
 
+Si vols que es publiquin documents, **ens els pots enviar a [denunciagroga@gmail.com](mailto:denunciagroga@gmail.com)**!
+
 *Per veure i descarregar qualsevol document, has prèmer sobre el seu títol*
 
 ## Informes
