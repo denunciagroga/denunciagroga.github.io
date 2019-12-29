@@ -1,4 +1,5 @@
 mapaTancamentsMarkers = [
+    // GIRONA
     {
      name: "CEIP Balandrau",
      courses: [
@@ -10,6 +11,30 @@ mapaTancamentsMarkers = [
      ],
      lat: 2.809418,
      long: 41.991528
+    },
+    {
+        name: "CEIP Montfalgars",
+        lat: 2.800072,
+        long: 41.9731408,
+        courses: [
+            {
+                name: '2020-2021',
+                text: 'Tancament de P3',
+                url: 'https://www.diaridegirona.cat/girona/2019/12/24/ccoo-soposa-al-tancament-linies/1020531.html'
+            }
+        ]
+    },
+    {
+        name: "CEIP Marta Mata",
+        lat: 2.8121138,
+        long: 41.9643905,
+        courses: [
+            {
+                name: '2020-2021',
+                text: 'Tancament de P3',
+                url: 'https://www.diaridegirona.cat/girona/2019/12/24/ccoo-soposa-al-tancament-linies/1020531.html'
+            }
+        ]
     },
     {
         name: "CEIP Auró / President Salvans",
