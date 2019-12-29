@@ -45,6 +45,8 @@ var scissorsIcon = L.icon({
     iconAnchor:   [0, 0], // point of the icon which will correspond to marker's location
     popupAnchor:  [-3, -76] // point from which the popup should open relative to the iconAnchor
 });
+
+const markers = {}
 	
 for (let { lat, long, name: schoolName, courses } of mapaTancamentsMarkers)
 {
@@ -55,10 +57,44 @@ for (let { lat, long, name: schoolName, courses } of mapaTancamentsMarkers)
 - <a href="${url}" target="_blank">${text}<a>
 `).join('<br>'))
 
-   L.marker( [long, lat], { icon: scissorsIcon} )
-      .bindPopup( text )
-      .addTo( map );
+const marker = L.marker( [long, lat], { icon: scissorsIcon} )
+
+markers [`${long},${lat}`] = marker
+marker.bindPopup( text ).addTo( map )
+}
+
+function focusMarker (lat, long) {
+    map.setView({ lat: long, lng: lat },40)
+    markers [`${long},${lat}`].openPopup()
 }
 </script>
+
+<br>
+
+
+<section>
+    <h3>Llistat de tancaments</h3> 
+<p><i>Si prems sobre el nom d'una escola pública, es visualitzarà al mapa!</i></p>
+
+{% assign grouped = site.data.tancamentLinies | sort: 'locality' | group_by: "locality" %}
+
+{% for locality in grouped %}
+<section>
+<h4>{{ locality.name }}</h4>
+{% for center in locality.items %} 
+<article>
+    <h5 onclick="focusMarker({{ center.lat }},{{ center.long }})"><a href="#mapa-tancaments">{{ center.name }}</a></h5>
+    <ul>
+    {% for course in center.courses %}
+        <li>
+            <p>{{ course.name }} <a href="{{ course.url }}" target="_blank">{{ course.text }}</a></p>
+            
+        </li>
+    {% endfor %}
+    </ul>
+</article>
+{% endfor %}
+</section>
+{% endfor %}
 <br>
 <blockquote class="twitter-tweet" data-lang="es"><p lang="ca" dir="ltr">Mapa dels tancaments de línies de l&#39;ensenyament públic no universitari de Catalunya.<br><br>Cap tancament de línies a escoles públiques i institus públics! Omplim el mapa de la vergonya!<a href="https://twitter.com/hashtag/SOSEmerg%C3%A8nciaEducativa?src=hash&amp;ref_src=twsrc%5Etfw">#SOSEmergènciaEducativa</a> <a href="https://twitter.com/hashtag/LaConcertadaEnsRoba?src=hash&amp;ref_src=twsrc%5Etfw">#LaConcertadaEnsRoba</a><a href="https://twitter.com/hashtag/Segregaci%C3%B3Escolar?src=hash&amp;ref_src=twsrc%5Etfw">#SegregacióEscolar</a><a href="https://t.co/3EGxHavSKO">https://t.co/3EGxHavSKO</a></p>&mdash; Denúncia Groga (@DenunciaGroga) <a href="https://twitter.com/DenunciaGroga/status/1208373043850043392?ref_src=twsrc%5Etfw">21 de diciembre de 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
