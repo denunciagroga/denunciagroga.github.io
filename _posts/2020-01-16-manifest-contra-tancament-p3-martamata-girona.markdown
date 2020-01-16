@@ -9,7 +9,7 @@ description: Convoquen assemblea oberta 20/1/2020 19:30, a l'escola.
 showImage: true
 ---
 
-L'escola pública Marta Mata de Girona és una entre les moltes que lluitant contra la decisió del Departament d'Educació de tancar una línia de P3. Faran assemblea oberta aquest 20 de gener de 2020, a les 19:30 a l'escola.
+L'escola pública Marta Mata de Girona és una entre les moltes com també la Montfalgars que lluitant contra la decisió del Departament d'Educació de tancar una línia de P3. Faran assemblea oberta aquest 20 de gener de 2020, a les 19:30 a l'escola.
 
 **Reproduïm el manifest ([podeu signarlo aquí amb aquest enllaç](https://totssommartamata.cat/))**
 
