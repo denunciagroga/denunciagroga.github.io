@@ -9,7 +9,7 @@ description: Escoles públiques del Garraf denuncien tancament de línies.
 showImage: true
 ---
 
-***Ens ha arribat un comunicat de vàries escoles públiques del Garraf que denuncien el tancament de línies de P3. El reproduïm:***
+***Ens ha arribat aquest comunicat de vàries escoles públiques del Garraf que denuncien el tancament de línies de P3. El reproduïm:***
 
 El proper 23 de març comença la preinscripció i, com ja és tradicional, aquesta ve animada per l’anunci per part del Departament d’Educació de tancament de línies de P3, **abans de que comenci aquesta preinscripció, a l’escola pública.**
 
